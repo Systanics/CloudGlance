@@ -5,6 +5,9 @@ AWS credentials and bastion hosts.
 
 CloudGlance lives at [cloudglance.dev](https://cloudglance.dev/).
 
+
+[![Cloud Glance Intro](.imgs/youtube_preview.png)](http://www.youtube.com/watch?v=FCEdAgW85jw "Cloud Glance Intro")
+
 You can find the following here:
 
 - [Issues](https://github.com/Systanics/CloudGlance/issues) - Search previous issues or log a new issue.
